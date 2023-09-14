@@ -10,3 +10,4 @@ spec:
     - all-apis.yaml
     - all-domains.yaml
     - all-systems.yaml
+    - all-users.yaml
