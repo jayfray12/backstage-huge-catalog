@@ -9,5 +9,5 @@ spec:
     - all-components.yaml
     - all-apis.yaml
     - all-domains.yaml
-    - all-in-one-systems.yaml
+    - all-systems.yaml
     - all-users.yaml
