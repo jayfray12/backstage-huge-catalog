@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: api-0
+  name: api-1000
 spec:
   type: openapi
   lifecycle: production
-  owner: guest
+  owner: group-6
+  system: system-183
   definition: >-
     https://github.com/APIs-guru/openapi-directory/blob/dab6854d4d599aafb0eb36e6c7ae1fe0c37509b7/APIs/spotify.com/2021.4.2/openapi.yaml
