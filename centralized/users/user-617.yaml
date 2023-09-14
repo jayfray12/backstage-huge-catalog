@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  namespace: default
+  name: user-617
+spec:
+  profile:
+    displayName: User Name 617
+  memberOf:
+    - group-9

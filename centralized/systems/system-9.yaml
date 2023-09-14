@@ -3,4 +3,4 @@ kind: System
 metadata:
   name: system-9
 spec:
-  owner: guest
+  owner: group-3
